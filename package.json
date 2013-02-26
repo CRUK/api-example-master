@@ -1,0 +1,12 @@
+{
+  "name": "cruk-example",
+  "version": "0.0.1",
+  "dependencies": {
+    "coffee-script": "~1.4.0",
+    "serveup": "~0.0.5",
+    "stylus": "~0.32.0"
+  },
+  "scripts": {
+    "start": "cake serve"
+  }
+}
